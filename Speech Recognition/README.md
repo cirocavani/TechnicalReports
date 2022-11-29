@@ -32,7 +32,7 @@ julia start_pluto.jl
 
 (Pluto Slider Server)
 
-Generate HTML using [PlutoSliderServer](https://github.com/JuliaPluto/PlutoSliderServer.jl) to run [`Simple audio recognition - Recognizing keywords.jl`](Simple%20audio%20recognition%20-%20Recognizing%20keywords.jl) and output [`Simple audio recognition - Recognizing keywords.html`](Simple%20audio%20recognition%20-%20Recognizing%20keywords.html).
+Generate HTML using [PlutoSliderServer](https://github.com/JuliaPluto/PlutoSliderServer.jl) to run [`Simple audio recognition - Recognizing keywords.jl`](Simple%20audio%20recognition%20-%20Recognizing%20keywords.jl) and output [`Simple audio recognition - Recognizing keywords.html`](../site/2022-11-28/Speech%20Recognition.html).
 
 ```sh
 julia export_html.jl
